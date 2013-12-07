@@ -12,8 +12,12 @@ var options = {
 console.log("Start");
 var req = http.request(options,function(res){
     console.log("Connected");
-    res.on('data',function(data){
-        console.log(data);
+    var body = '';
+    res.on('data',function(chunk){
+        body+=chunk;
+    });
+    res.on('end', function(){
+    	console.log("Response Body: " + body);
     });
 });
 

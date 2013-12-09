@@ -2,7 +2,7 @@ var http = require('http'),
     fs = require('fs'),
     sys = require('sys'),
     exec = require('child_process').exec,
-    child,
+    wolfram = require('wolfram-alpha').createClient('G4A8VK-WRV3WA595H',opts),
     EventEmitter = require('events').EventEmitter,
     queue = new EventEmitter;
 
@@ -56,6 +56,13 @@ http.createServer(function(req, res){
 					fs.readFile('test.txt', function(err,str){
 						if (err) throw err;
 						console.log('File: ' +str);
+						
+						//call wolfram to do the math
+						wolfram.query("", function(err, result){
+							if (err) throw err;
+							console.log("Result: ");
+						});
+						
 						res.writeHeader(200, {"Content-Type":"application/json"});
         					//res.write();
 						var result = {

@@ -1,0 +1,12 @@
+connect.multipart() will be removed in connect 3.0
+visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+connect.limit() will be removed in connect 3.0
+Received file:
+{"image":{"fieldName":"image","originalFilename":"image0.tiff","path":"/tmp/326-y87kfj.tiff","headers":{"content-disposition":"form-data; name=\"image\"; filename=\"image0.tiff\"","content-type":"image/tiff","content-transfer-encoding":"binary"},"ws":{"_writableState":{"highWaterMark":16384,"objectMode":false,"needDrain":false,"ending":true,"ended":true,"finished":true,"decodeStrings":true,"defaultEncoding":"utf8","length":0,"writing":false,"sync":false,"bufferProcessing":false,"writecb":null,"writelen":0,"buffer":[]},"writable":true,"domain":null,"_events":{"error":[null],"close":[null]},"_maxListeners":10,"path":"/tmp/326-y87kfj.tiff","fd":null,"flags":"w","mode":438,"bytesWritten":1394322,"closed":true},"size":1394322,"name":"image0.tiff","type":"image/tiff"}}
+ Photo: image0.tiff
+stdout: 
+stderr: Tesseract Open Source OCR Engine v3.02.02 with Leptonica
+
+File: 
+[{"problem":"","answer":""}]
+SENT RESPONSE!

@@ -10,3 +10,88 @@ stderr: Tesseract Open Source OCR Engine v3.02.02 with Leptonica
 File: 
 [{"problem":"","answer":""}]
 SENT RESPONSE!
+Received file:
+{"image":{"fieldName":"image","originalFilename":"image0.tiff","path":"/tmp/326-1rcn3vz.tiff","headers":{"content-disposition":"form-data; name=\"image\"; filename=\"image0.tiff\"","content-type":"image/tiff","content-transfer-encoding":"binary"},"ws":{"_writableState":{"highWaterMark":16384,"objectMode":false,"needDrain":false,"ending":true,"ended":true,"finished":true,"decodeStrings":true,"defaultEncoding":"utf8","length":0,"writing":false,"sync":false,"bufferProcessing":false,"writecb":null,"writelen":0,"buffer":[]},"writable":true,"domain":null,"_events":{"error":[null],"close":[null]},"_maxListeners":10,"path":"/tmp/326-1rcn3vz.tiff","fd":null,"flags":"w","mode":438,"bytesWritten":641493,"closed":true},"size":641493,"name":"image0.tiff","type":"image/tiff"}}
+ Photo: image0.tiff
+stdout: 
+stderr: Tesseract Open Source OCR Engine v3.02.02 with Leptonica
+
+File: ITEGRATE X
+
+
+WOLFRAM Result: [{"primary":true,"title":"Indefinite integral","subpods":[{"text":" integral X dX = X^2/2+constant","image":"http://www2.wolframalpha.com/Calculate/MSP/MSP15321bcdc644902c32cg00005dbeeaa322bfdi2f?MSPStoreType=image/gif&s=3"}]},{"primary":null,"title":"Plot of the integral","subpods":[{"text":"","image":"http://www2.wolframalpha.com/Calculate/MSP/MSP15331bcdc644902c32cg00002hbhf9ih83hg956d?MSPStoreType=image/gif&s=3"}]}]
+[{"problem":" integral X dX = X^2/2+constant","answer":""}]
+SENT RESPONSE!
+Received file:
+{"image":{"fieldName":"image","originalFilename":"image0.tiff","path":"/tmp/326-1b2jvoy.tiff","headers":{"content-disposition":"form-data; name=\"image\"; filename=\"image0.tiff\"","content-type":"image/tiff","content-transfer-encoding":"binary"},"ws":{"_writableState":{"highWaterMark":16384,"objectMode":false,"needDrain":false,"ending":true,"ended":true,"finished":true,"decodeStrings":true,"defaultEncoding":"utf8","length":0,"writing":false,"sync":false,"bufferProcessing":false,"writecb":null,"writelen":0,"buffer":[]},"writable":true,"domain":null,"_events":{"error":[null],"close":[null]},"_maxListeners":10,"path":"/tmp/326-1b2jvoy.tiff","fd":null,"flags":"w","mode":438,"bytesWritten":715813,"closed":true},"size":715813,"name":"image0.tiff","type":"image/tiff"}}
+ Photo: image0.tiff
+stdout: 
+stderr: Tesseract Open Source OCR Engine v3.02.02 with Leptonica
+
+File: sQRT(9)
+
+
+WOLFRAM Result: [{"primary":null,"title":"Input","subpods":[{"text":"sqrt(9)","image":"http://www4c.wolframalpha.com/Calculate/MSP/MSP30661g84f7d31ac3hfh50000568d4ecfe73h1gid?MSPStoreType=image/gif&s=3"}]},{"primary":true,"title":"Result","subpods":[{"text":"3","image":"http://www4c.wolframalpha.com/Calculate/MSP/MSP30671g84f7d31ac3hfh50000651c279ch4b4ag56?MSPStoreType=image/gif&s=3"}]},{"primary":null,"title":"Number name","subpods":[{"text":"three","image":"http://www4c.wolframalpha.com/Calculate/MSP/MSP30681g84f7d31ac3hfh5000040f304b674913hd0?MSPStoreType=image/gif&s=3"}]},{"primary":null,"title":"Visual representation","subpods":[{"text":"* * *","image":"http://www4c.wolframalpha.com/Calculate/MSP/MSP30691g84f7d31ac3hfh500003i8e2gfd04cc4342?MSPStoreType=image/gif&s=3"}]},{"primary":null,"title":"Number line","subpods":[{"text":"","image":"http://www4c.wolframalpha.com/Calculate/MSP/MSP30701g84f7d31ac3hfh500002gf53daci20g948f?MSPStoreType=image/gif&s=3"}]},{"primary":null,"title":"All 2nd roots of 9","subpods":[{"text":"3  (real, principal root)","image":"http://www4c.wolframalpha.com/Calculate/MSP/MSP30711g84f7d31ac3hfh5000022cib0h4d7c24863?MSPStoreType=image/gif&s=3"},{"text":"-3  (real root)","image":"http://www4c.wolframalpha.com/Calculate/MSP/MSP30721g84f7d31ac3hfh500002cg9c19f1b878d70?MSPStoreType=image/gif&s=3"}]},{"primary":null,"title":"Plot of all roots in the complex plane","subpods":[{"text":"","image":"http://www4c.wolframalpha.com/Calculate/MSP/MSP30731g84f7d31ac3hfh500002ci62d01fg0i3c3e?MSPStoreType=image/gif&s=3"}]}]
+[{"problem":"sqrt(9)","answer":"3"}]
+SENT RESPONSE!
+Received file:
+{"image":{"fieldName":"image","originalFilename":"image0.tiff","path":"/tmp/326-bjcp1k.tiff","headers":{"content-disposition":"form-data; name=\"image\"; filename=\"image0.tiff\"","content-type":"image/tiff","content-transfer-encoding":"binary"},"ws":{"_writableState":{"highWaterMark":16384,"objectMode":false,"needDrain":false,"ending":true,"ended":true,"finished":true,"decodeStrings":true,"defaultEncoding":"utf8","length":0,"writing":false,"sync":false,"bufferProcessing":false,"writecb":null,"writelen":0,"buffer":[]},"writable":true,"domain":null,"_events":{"error":[null],"close":[null]},"_maxListeners":10,"path":"/tmp/326-bjcp1k.tiff","fd":null,"flags":"w","mode":438,"bytesWritten":704340,"closed":true},"size":704340,"name":"image0.tiff","type":"image/tiff"}}
+ Photo: image0.tiff
+stdout: 
+stderr: Tesseract Open Source OCR Engine v3.02.02 with Leptonica
+
+File: DERIVE >92
+
+
+[{"problem":"","answer":""}]
+SENT RESPONSE!
+Received file:
+{"image":{"fieldName":"image","originalFilename":"image0.tiff","path":"/tmp/326-14bl2tq.tiff","headers":{"content-disposition":"form-data; name=\"image\"; filename=\"image0.tiff\"","content-type":"image/tiff","content-transfer-encoding":"binary"},"ws":{"_writableState":{"highWaterMark":16384,"objectMode":false,"needDrain":false,"ending":true,"ended":true,"finished":true,"decodeStrings":true,"defaultEncoding":"utf8","length":0,"writing":false,"sync":false,"bufferProcessing":false,"writecb":null,"writelen":0,"buffer":[]},"writable":true,"domain":null,"_events":{"error":[null],"close":[null]},"_maxListeners":10,"path":"/tmp/326-14bl2tq.tiff","fd":null,"flags":"w","mode":438,"bytesWritten":650713,"closed":true},"size":650713,"name":"image0.tiff","type":"image/tiff"}}
+ Photo: image0.tiff
+stdout: 
+stderr: Tesseract Open Source OCR Engine v3.02.02 with Leptonica
+
+File: 
+[{"problem":"","answer":""}]
+SENT RESPONSE!
+Received file:
+{"image":{"fieldName":"image","originalFilename":"image0.tiff","path":"/tmp/326-10ht421.tiff","headers":{"content-disposition":"form-data; name=\"image\"; filename=\"image0.tiff\"","content-type":"image/tiff","content-transfer-encoding":"binary"},"ws":{"_writableState":{"highWaterMark":16384,"objectMode":false,"needDrain":false,"ending":true,"ended":true,"finished":true,"decodeStrings":true,"defaultEncoding":"utf8","length":0,"writing":false,"sync":false,"bufferProcessing":false,"writecb":null,"writelen":0,"buffer":[]},"writable":true,"domain":null,"_events":{"error":[null],"close":[null]},"_maxListeners":10,"path":"/tmp/326-10ht421.tiff","fd":null,"flags":"w","mode":438,"bytesWritten":708522,"closed":true},"size":708522,"name":"image0.tiff","type":"image/tiff"}}
+ Photo: image0.tiff
+stdout: 
+stderr: Tesseract Open Source OCR Engine v3.02.02 with Leptonica
+
+File: RD E RIV E X
+
+
+[{"problem":"","answer":""}]
+SENT RESPONSE!
+Received file:
+{"image":{"fieldName":"image","originalFilename":"image0.tiff","path":"/tmp/326-1ap4vv5.tiff","headers":{"content-disposition":"form-data; name=\"image\"; filename=\"image0.tiff\"","content-type":"image/tiff","content-transfer-encoding":"binary"},"ws":{"_writableState":{"highWaterMark":16384,"objectMode":false,"needDrain":false,"ending":true,"ended":true,"finished":true,"decodeStrings":true,"defaultEncoding":"utf8","length":0,"writing":false,"sync":false,"bufferProcessing":false,"writecb":null,"writelen":0,"buffer":[]},"writable":true,"domain":null,"_events":{"error":[null],"close":[null]},"_maxListeners":10,"path":"/tmp/326-1ap4vv5.tiff","fd":null,"flags":"w","mode":438,"bytesWritten":708522,"closed":true},"size":708522,"name":"image0.tiff","type":"image/tiff"}}
+ Photo: image0.tiff
+stdout: 
+stderr: Tesseract Open Source OCR Engine v3.02.02 with Leptonica
+
+File: RD E RIV E X
+
+
+Error: Request aborted
+    at IncomingMessage.onReqAborted (/Github/Github/PhotoDIstance-PhotoEquation/server_side/node_modules/express/node_modules/connect/node_modules/multiparty/index.js:131:17)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17)
+    at abortIncoming (http.js:1911:11)
+    at Socket.socket.onend (http.js:2010:7)
+    at Socket.g (events.js:175:14)
+    at Socket.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (http.js:691:11)
+    at ServerResponse.res.setHeader (/Github/Github/PhotoDIstance-PhotoEquation/server_side/node_modules/express/node_modules/connect/lib/patch.js:63:22)
+    at ServerResponse.<anonymous> (/Github/Github/PhotoDIstance-PhotoEquation/server_side/node_modules/express/node_modules/connect/lib/patch.js:80:14)
+    at Array.forEach (native)
+    at ServerResponse.res.writeHead (/Github/Github/PhotoDIstance-PhotoEquation/server_side/node_modules/express/node_modules/connect/lib/patch.js:79:28)
+    at ServerResponse.writeHeader (http.js:1208:18)
+    at /Github/Github/PhotoDIstance-PhotoEquation/server_side/app_test.js:43:9
+    at Request._callback (/Github/Github/PhotoDIstance-PhotoEquation/server_side/node_modules/wolfram-alpha/wolfram.js:103:5)
+    at Request.self.callback (/Github/Github/PhotoDIstance-PhotoEquation/server_side/node_modules/wolfram-alpha/node_modules/request/request.js:129:22)
+    at Request.EventEmitter.emit (events.js:98:17)

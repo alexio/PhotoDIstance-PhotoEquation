@@ -1,9 +1,0 @@
--Find a way to store images in firebase. (Think you can do this with a bitmap / base64 encoding)
-	http://stackoverflow.com/questions/4830711/how-to-convert-a-image-into-base64-string
-
--Design the Firbase in order to store users their questions and various other information needed
--Design logo and finalize design
-
--Firebase io located at https://visualhelp.firebaseio.com/
-
--When completed push to Google Play Store

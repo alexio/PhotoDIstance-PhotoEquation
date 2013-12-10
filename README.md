@@ -4,6 +4,7 @@ Photo Equation Solver App
 Android Code:
     1. Takes photo of a legible equation (photo must be of good quality) and sends it for processing server side.
     2. After image is processed, app receives a response in json and presents both the equation and solution to the user.
+    3. Unzip pictoAnswerFinal.zip for android.
     
 ServerCode:
     1. Server listens for post from Android app. After a valid post is recieved, server calls Tesseract (an open source OCR engine) which processes the image and converts it to text. The resulting equation is sent to the Wolfram Alpha API for evaluation. After a valid response is retrieved from Wolfram Alpha, the server sends a json response to the android app with a solution to the photo equation.
